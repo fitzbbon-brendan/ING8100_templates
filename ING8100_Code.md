@@ -5,7 +5,7 @@ This readme file was generated on * YYYY-MM-DD * by * NAME *
 *help text within asterisks should be deleted before finalizing your document**
 
 
-# GENERAL INFORMATION
+# General Information
 
 **Project name:** Provide a descriptive project title (note: this title should be distinct from publications or datasets)
 **Version:** Provide a version using semantic versioning, so that it is clear how earlier versions relate to the most current version of the code (e.g., v1.2.0)
@@ -13,7 +13,7 @@ This readme file was generated on * YYYY-MM-DD * by * NAME *
 
 ___
 
-# PROJECT OVERVIEW
+# Project overview
 
 **Full description:** Provide a detailed description of the software's purpose, including notable features 
 **Date of creation:**Provide the date of creation of the software or the latest version release (single date(YYYY-MM-DD), or a range (YYYY-MM-DD - YYYY-MM-DD))
@@ -22,7 +22,7 @@ ___
 
 ___
 
-# INSTALLATION
+# Installation
 
 **Step by step instructions:** Provide step-by-step installation instructions to install and set up your software project on a user's system 
 **System requirements:** Provide system requirements, such as the operating system and any other system-level dependencies
@@ -33,7 +33,7 @@ ___
 
 ___
 
-# USAGE
+# Usage
  
 **Step by step instructions:** Provide instructions on how run the software or execute the code after all of the required software project has been installed and include a brief description of what the expected output or behaviour should be
 - Provide usage examples
@@ -43,7 +43,7 @@ ___
 
 ___
 
-# LICENSE
+# License
 
 **Software License:** Provide a license (e.g., MIT) and LICENSE file and/or explain any restrictions on use
 [!Note] This should also be in the source code as well
@@ -52,7 +52,7 @@ Visit https://choosealicense.com for useful and short summaries on the licenses
 
 ___
 
-# CONTACT INFORMATION
+# Contact Information
 [!Note] Provide at least two contacts; repeat block for additional contributors as needed
 
 **Contact**
