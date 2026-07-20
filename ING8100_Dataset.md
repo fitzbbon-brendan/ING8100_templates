@@ -15,20 +15,6 @@ Institution:
 Address: 
 Email: 
 
-## Author/Associate or Co-investigator Information
-Name: 
-ORCID:
-Institution: 
-Address: 
-Email: 
-
-## Author/Alternate Contact Information
-Name: 
-ORCID:
-Institution: 
-Address: 
-Email: 
-
 * Date of data collection: *provide single date, range, or approximate date; suggested format YYYY-MM-DD)*
 * Geographic location of data collection: *provide latitude, longitude, or city/region, State, Country*
 * Information about funding sources that supported the collection of the data: 
