@@ -4,7 +4,7 @@ This readme file was generated on [YYYY-MM-DD] by [NAME]
 [text within square brackets should be changed to specific information about your dataset.]
 *help text within asterisks should be deleted before finalizing your document**
 
-# GENERAL INFORMATION
+# General Information
 
 * Title of Dataset: 
 *provide at least two contacts*
@@ -18,7 +18,7 @@ Email:
 * Information about funding sources that supported the collection of the data: 
 
 
-# SHARING/ACCESS INFORMATION
+# Sharing/Access Information
 
 * Licenses/restrictions placed on the data: 
 * Links to publications that cite or use the data: 
@@ -28,7 +28,7 @@ Email:
 * Recommended citation for this dataset: 
 
 
-# DATA & FILE OVERVIEW
+# Data & File Overview
 
 ## File List: *list all files (or folders, as appropriate for dataset organization) contained in the dataset, with a brief description*
 
@@ -40,7 +40,7 @@ Email:
 	* When was the file updated? 
 
 
-# METHODOLOGICAL INFORMATION
+# Methodological Information
 
 ## Description of methods used for collection/generation of data: 
 *include links or references to publications or other documentation containing experimental design or protocols used in data collection*
@@ -58,11 +58,13 @@ Email:
 * People involved with sample collection, processing, analysis and/or submission: 
 
 
-# DATA-SPECIFIC INFORMATION FOR: [FILENAME]
+# Data-Specific Information For: [FILENAME]
 *repeat this section for each dataset, folder or file, as appropriate*
 
 * Number of variables: 
 * Number of cases/rows: 
 * Variable List: *list variable name(s), description(s), unit(s) and value labels as appropriate for each*
 * Missing data codes: *list code/symbol and definition*
-* Specialized formats or other abbreviations used: 
+* Specialized formats or other abbreviations used:
+
+This template is modified from Cornell University's "*Readme Template for Data*" by Wendy Kozlowski, available under a CC0 1.0 License : https://doi.org/10.7298/mhns-zm71.2
