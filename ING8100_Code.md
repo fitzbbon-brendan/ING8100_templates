@@ -1,8 +1,8 @@
 This readme file was generated on * YYYY-MM-DD * by * NAME *
-<!---
-Visit [Writing READMEs for Research Code & Software](https://data.research.cornell.edu/data-management/sharing/writing-readmes-for-research-code-software/) guidance for more details
 
--->
+*Note:
+[text within square brackets should be changed to specific information about your dataset.]
+*help text within asterisks should be deleted before finalizing your document**
 
 
 # GENERAL INFORMATION
