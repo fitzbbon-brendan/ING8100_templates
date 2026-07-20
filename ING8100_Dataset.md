@@ -15,8 +15,6 @@ Institution:
 Address: 
 Email: 
 
-* Date of data collection: *provide single date, range, or approximate date; suggested format YYYY-MM-DD)*
-* Geographic location of data collection: *provide latitude, longitude, or city/region, State, Country*
 * Information about funding sources that supported the collection of the data: 
 
 
@@ -25,7 +23,6 @@ Email:
 * Licenses/restrictions placed on the data: 
 * Links to publications that cite or use the data: 
 * Links to other publicly accessible locations of the data: 
-* Links/relationships to ancillary data sets: 
 * Was data derived from another source?
 	* If yes, list source(s): 
 * Recommended citation for this dataset: 
