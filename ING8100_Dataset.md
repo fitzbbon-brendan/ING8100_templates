@@ -7,7 +7,7 @@ This readme file was generated on [YYYY-MM-DD] by [NAME]
 # General Information
 
 * Title of Dataset: 
-*provide at least two contacts*
+
 ## Author/Principal Investigator Information
 Name: 
 ORCID:
