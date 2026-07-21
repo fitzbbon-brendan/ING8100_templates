@@ -8,7 +8,9 @@ This readme file was generated on * YYYY-MM-DD * by * NAME *
 # General Information
 
 **Project name:** Provide a descriptive project title (note: this title should be distinct from publications or datasets)
+
 **Version:** Provide a version using semantic versioning, so that it is clear how earlier versions relate to the most current version of the code (e.g., v1.2.0)
+
 **Short description:** Provide a one sentence summary of the software's purpose or functionality. This should serve as a quick overview, distinct from the full project description below. (e.g., Python tool for visualizing climate model outputs)
 
 ___
@@ -16,8 +18,11 @@ ___
 # Project overview
 
 **Full description:** Provide a detailed description of the software's purpose, including notable features 
-**Date of creation:**Provide the date of creation of the software or the latest version release (single date(YYYY-MM-DD), or a range (YYYY-MM-DD - YYYY-MM-DD))
+
+**Date of creation:** Provide the date of creation of the software or the latest version release (single date(YYYY-MM-DD), or a range (YYYY-MM-DD - YYYY-MM-DD))
+
 **Project Organization:** Provide information on the following as applicable: source code, pre-compiled binaries, tests, configuration files, build scripts, dependencies, documentation, static resources
+
 **Software project size:** Provide the total size of the project or its components (uncompressed)
 
 ___
@@ -46,7 +51,6 @@ ___
 # License
 
 **Software License:** Provide a license (e.g., MIT) and LICENSE file and/or explain any restrictions on use
-[!Note] This should also be in the source code as well
 Visit https://choosealicense.com for useful and short summaries on the licenses
 **Preferred citation:** Provide a citation that users can reference in publications
 
@@ -78,3 +82,5 @@ ___
 **Project is available:** Add a link to other locations where the software project is available (e.g., Zenodo, GitHub, institutional repository)
 **Related relationships:** List relationships to ancillary scripts, applications, or data sets
 **Contributors:** List all contributors and their roles
+
+This template is modified from Cornell University's "Readme Template for Software" by Dianne Dietrich and Lencia McKee, available under a CC0 1.0 License : [https://doi.org/10.7298/mhns-zm71.2](https://doi.org/10.7298/h85a-qz91.3)
