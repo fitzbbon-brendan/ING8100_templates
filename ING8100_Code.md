@@ -81,6 +81,6 @@ ___
 **Publications using our software:** Add citations to any publications using this software project
 **Project is available:** Add a link to other locations where the software project is available (e.g., Zenodo, GitHub, institutional repository)
 **Related relationships:** List relationships to ancillary scripts, applications, or data sets
-**Contributors:** List all contributors and their roles
+** Contributors:** List all contributors and their roles
 
 This template is modified from Cornell University's "Readme Template for Software" by Dianne Dietrich and Lencia McKee, available under a CC0 1.0 License : [https://doi.org/10.7298/mhns-zm71.2](https://doi.org/10.7298/h85a-qz91.3)
