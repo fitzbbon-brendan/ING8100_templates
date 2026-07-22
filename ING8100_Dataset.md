@@ -11,13 +11,13 @@ This readme file was generated on [YYYY-MM-DD] by [FIRST NAME, LAST NAME]
 
 ## Author/Principal Investigator Information
 *provide your information, as if you were the authors of the dataset.*
-Name: 
-ORCID:
+Name:
+ORCID: 
 Institution:  
 Email: 
 
 Name: 
-ORCID:
+ORCID: 
 Institution:  
 Email: 
 
