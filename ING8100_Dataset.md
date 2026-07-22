@@ -1,4 +1,4 @@
-This readme file was generated on [YYYY-MM-DD] by [NAME]
+This readme file was generated on [YYYY-MM-DD] by [FIRST NAME, LAST NAME]
 
 *Note:
 [text within square brackets should be changed to specific information about your dataset.]
@@ -11,8 +11,7 @@ This readme file was generated on [YYYY-MM-DD] by [NAME]
 ## Author/Principal Investigator Information
 Name: 
 ORCID:
-Institution: 
-Address: 
+Institution:  
 Email: 
 
 * Information about funding sources that supported the collection of the data: 
@@ -33,7 +32,6 @@ Email:
 ## File List: *list all files (or folders, as appropriate for dataset organization) contained in the dataset, with a brief description*
 
 * Relationship between files, if important: 
-* Additional related data collected that was not included in the current data package: 
 * Are there multiple versions of the dataset?
 	* If yes, name of file(s) that was updated: 
 	* Why was the file updated? 
@@ -59,7 +57,7 @@ Email:
 
 
 # Data-Specific Information For: [FILENAME]
-*repeat this section for each dataset, folder or file, as appropriate*
+*choose a single file in your dataset, and respond to the questions below to the best of your ability*
 
 * Number of variables: 
 * Number of cases/rows: 
