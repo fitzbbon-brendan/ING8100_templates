@@ -11,17 +11,16 @@ This readme file was generated on [YYYY-MM-DD] by [FIRST NAME, LAST NAME]
 
 ## Author/Principal Investigator Information
 *provide your information, as if you were the authors of the dataset.*
-*Name:
-*ORCID: 
-*Institution:  
-*Email: 
 
-*Name: 
-*ORCID: 
-*Institution:  
-*Email: 
-
-* Information about funding sources that supported the collection of the data: 
+* Name:
+* ORCID:
+* Institution:
+* Email:
+#
+* Name:
+* ORCID:
+* Institution:
+* Email:
 
 # Sharing/Access Information
 
@@ -55,7 +54,6 @@ This readme file was generated on [YYYY-MM-DD] by [FIRST NAME, LAST NAME]
 * Number of variables: 
 * Number of cases/rows: 
 * Variable List: *list variable name(s), description(s), unit(s) and value labels as appropriate for each*
-* Missing data codes: *list code/symbol and definition*
-* Specialized formats or other abbreviations used:
+* Specialized file formats or other abbreviations used:
 
 This template is modified from Cornell University's "*Readme Template for Data*" by Wendy Kozlowski, available under a CC0 1.0 License : https://doi.org/10.7298/mhns-zm71.2
